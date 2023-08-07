@@ -5,6 +5,7 @@
 }
 #he1{
 	height: 50px;
+/*	position:fixed;*/
 }
 .page1{
 	height: 700px;
@@ -567,4 +568,8 @@ footer{
 	color: white;
 	font-family: sans-serif;
 	text-align: center;
+}
+#ic{
+	font-size: 30px;
+	margin:10px 0px 0px 730px ;
 }
